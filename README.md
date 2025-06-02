@@ -1,4 +1,4 @@
-# 👨‍💻 Lê Hoàng Thân - Cybersecurity Portfolio
+# 👨‍💻 Lê Hoàng Thân - Cybersecurity Student Portfolio
 
 > _"Tôi không chỉ tìm ra vấn đề, mà còn kiến tạo giải pháp."_
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📍 Vị Trí & Lĩnh Vực Đã Thực Tập
+## 📍 Vị Trí & Lĩnh Vực Đã Và Đang Học Tập
 
 ### 🔓 Khai thác rủi ro
 
@@ -102,7 +102,7 @@
 | 📘 Facebook   | [facebook.com](https://www.facebook.com/profile.php?id=61558063418982) |
 | 🐙 GitHub     | [github.com/Le-Hoang-Than](https://github.com/Le-Hoang-Than) |
 | 🔗 LinkedIn   | [linkedin.com/in/hoàng-thân-lê](https://www.linkedin.com/in/ho%C3%A0ng-th%C3%A2n-l%C3%AA-bbb9a82b1) |
-| 📧 Email      | *(Thêm nếu bạn muốn hiển thị)* |
+| 📧 Email      | [lehoangthan584@gmail.com](mailto:lehoangthan584@gmail.com) |
 
 ---
 
