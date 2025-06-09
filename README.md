@@ -12,7 +12,7 @@
 
 ---
 
-### 🌍 Ngôn ngữ giao tiếp
+## 🌍 Ngôn ngữ giao tiếp
 
 - 🇻🇳 Tiếng Việt (Bản ngữ)  
 - 🇬🇧 Tiếng Anh (Giao tiếp & đọc hiểu chuyên ngành)  
