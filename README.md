@@ -1,5 +1,10 @@
-| ![](https://nirzak-streak-stats.vercel.app/?user=Le-Hoang-Than&theme=default&hide_border=false) | ![](https://github-readme-stats.vercel.app/api?username=Le-Hoang-Than&theme=default&hide_border=false&include_all_commits=false&count_private=false) |
-|--|--|
+<div style="display: flex;">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Le-Hoang-Than&theme=default&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api?username=Le-Hoang-Than&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+</div>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=Le-Hoang-Than&theme=default&hide_border=false) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Le-Hoang-Than&theme=default&hide_border=false&include_all_commits=false&count_private=false) -->
+
 # 👨‍💻 Lê Hoàng Thân - Cybersecurity Student
 
 🎓 **Sinh viên năm 3** tại _Đại học Công nghệ Sài Gòn (STU)_  
