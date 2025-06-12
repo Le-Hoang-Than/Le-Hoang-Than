@@ -1,6 +1,6 @@
 <div style="display: flex;">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Le-Hoang-Than&theme=default&hide_border=false">
-<img src="https://github-readme-stats.vercel.app/api?username=Le-Hoang-Than&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+  <img style="" src="https://nirzak-streak-stats.vercel.app/?user=Le-Hoang-Than&theme=default&hide_border=false" >
+  <img style="" src="https://github-readme-stats.vercel.app/api?username=Le-Hoang-Than&theme=default&hide_border=false&include_all_commits=false&count_private=false">
 </div>
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Le-Hoang-Than&theme=default&hide_border=false) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Le-Hoang-Than&theme=default&hide_border=false&include_all_commits=false&count_private=false) -->
@@ -10,7 +10,7 @@
 🎓 **Sinh viên năm 3** tại _Đại học Công nghệ Sài Gòn (STU)_  
 🔐 Định hướng: **Junior Pentester | Red Team Engineer**  
 📄 [Xem CV tại đây](assets/images/portfolio-images/Portfolio-Header/CV.png)
-## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/than.hoang.le.2025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoàng-thân-lê-bbb9a82b1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TLabsCyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lehoangthan584@gmail.com) 
 
 ## 🌍 Ngôn ngữ giao tiếp
